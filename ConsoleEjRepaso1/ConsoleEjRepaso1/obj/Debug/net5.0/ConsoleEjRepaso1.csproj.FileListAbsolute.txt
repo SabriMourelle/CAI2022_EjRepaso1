@@ -1,0 +1,16 @@
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ConsoleEjRepaso1.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ConsoleEjRepaso1.deps.json
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ConsoleEjRepaso1.runtimeconfig.json
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ConsoleEjRepaso1.runtimeconfig.dev.json
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ConsoleEjRepaso1.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ref\ConsoleEjRepaso1.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\bin\Debug\net5.0\ConsoleEjRepaso1.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.AssemblyInfoInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.AssemblyInfo.cs
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ref\ConsoleEjRepaso1.dll
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso1\ConsoleEjRepaso1\ConsoleEjRepaso1\obj\Debug\net5.0\ConsoleEjRepaso1.genruntimeconfig.cache
